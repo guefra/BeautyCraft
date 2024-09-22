@@ -47,7 +47,7 @@ There are three options to use this modpack:
     Resource Packs
     </summary>
     <ul>
-        <li><p><a href="https://modrinth.com/resourcepack/compact-font/versions">Compact Font</a> (Updated to 1.21)</p></li>
+        <li><p><a href="https://modrinth.com/resourcepack/compact-font/versions">Compact Font</a> (it's not 1.21 but works anyways)</p></li>
         <li><p><a href="https://modrinth.com/resourcepack/colourful-containers-dark-mode-gui">Colourful containers Dark Mode GUI</a></p></li>
         <li><p><a href="https://modrinth.com/resourcepack/refined-enchants">Refined Entchants</a></p></li>
         <li><p><a href="https://modrinth.com/resourcepack/fast-better-grass">Fast Better Grass</a></p></li>
