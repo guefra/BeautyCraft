@@ -29,7 +29,6 @@ There are three options to use this modpack:
         <li><p><a href="https://modrinth.com/mod/betterf3">BetterF3</a></p></li>
         <li><p><a href="https://modrinth.com/mod/shulkerboxtooltip">Shulker Box Tooltip</a></p></li>
         <li><p><a href="https://modrinth.com/mod/fallingleaves">Falling Leaves</a></p></li>
-        <li><p><a href="https://modrinth.com/mod/flow">Flow</a></p></li>
         <li><p><a href="https://modrinth.com/mod/tiny-item-animations">Tiny Item Animations</a></p></li>
         <li><p><a href="https://modrinth.com/mod/modmenu">Mod Menu</a></p></li>
         <li><p><a href="https://modrinth.com/mod/smooth-scroll">Smooth Scrolling</a></p></li>
@@ -81,15 +80,15 @@ There are three options to use this modpack:
         <li><a href="https://modrinth.com/mod/placeholder-api">Text Placeholder API</a></li>
         <li><a href="https://modrinth.com/mod/cloth-config">Cloth Config API</a></li>
         <li><a href="https://modrinth.com/mod/konkrete">Konkrete</a></li>
-        <li><a href="https://modrinth.com/mod/mru">M.R.U</a></li>
         <li><a href="https://modrinth.com/mod/indium">Indium</a></li>
+        <li><a href="https://modrinth.com/mod/obsidianui">ObsidianUI</a></li>
     </ul>
 </details>
 
 ### Credits
 
 Special thanks to each creator of the mods used in this pack, so the following (only the "Owners" or "Organisations" of the mods are listed):
-[tr7zw](https://modrinth.com/user/tr7zw), [keksuccino](https://modrinth.com/user/keksuccino), [PinkGoosik](https://modrinth.com/user/PinkGoosik), [NikitaCartes](https://modrinth.com/user/NikitaCartes), [henkelmax](https://modrinth.com/user/henkelmax), [MovTery](https://modrinth.com/user/MovTery), [TreyRuffy](https://modrinth.com/user/TreyRuffy), [MisterPeModder](https://modrinth.com/user/MisterPeModder), [randommcsomethin](https://modrinth.com/user/randommcsomethin), [IMB11](https://modrinth.com/user/IMB11), [Trivaxy](https://modrinth.com/user/Trivaxy), [Terraformers](https://modrinth.com/organization/terraformers), [SmajloSlovakian](https://modrinth.com/user/SmajloSlovakian), [YaLTeR](https://modrinth.com/user/YaLTeR), [creativemd](https://modrinth.com/user/creativemd), [PepperCode1](https://modrinth.com/user/PepperCode1), [ThinkingStudio](https://modrinth.com/organization/thinkingstudio), [Sollace](https://modrinth.com/user/Sollace), [Kaiji-Kun](https://modrinth.com/user/Kaiji-Kun), [Kingybu](https://modrinth.com/user/Kingybu), [Vixel](https://modrinth.com/user/Vixel), [Fabulously Optimized](https://modrinth.com/organization/fabulously-optimized), [nebulr](https://modrinth.com/user/nebulr), [aric3435](https://modrinth.com/user/aric3435), [FreshLX](https://modrinth.com/user/FreshLX), [EminGT](https://modrinth.com/user/EminGT), [shsupercm](https://modrinth.com/user/shsupercm), [Traben](https://modrinth.com/user/Traben), [modmuss50](https://modrinth.com/user/modmuss50), [jellysquid3](https://modrinth.com/user/jellysquid3), [coderbot](https://modrinth.com/user/coderbot), [embeddedt](https://modrinth.com/user/embeddedt), [Wesley1808](https://modrinth.com/user/Wesley1808), [Patbox](https://modrinth.com/user/Patbox), [shedaniel](https://modrinth.com/user/shedaniel), [comp500](https://modrinth.com/user/comp500), [TerminalMC](https://modrinth.com/organization/terminalmc)
+[tr7zw](https://modrinth.com/user/tr7zw), [keksuccino](https://modrinth.com/user/keksuccino), [PinkGoosik](https://modrinth.com/user/PinkGoosik), [NikitaCartes](https://modrinth.com/user/NikitaCartes), [henkelmax](https://modrinth.com/user/henkelmax), [MovTery](https://modrinth.com/user/MovTery), [TreyRuffy](https://modrinth.com/user/TreyRuffy), [MisterPeModder](https://modrinth.com/user/MisterPeModder), [randommcsomethin](https://modrinth.com/user/randommcsomethin), [Trivaxy](https://modrinth.com/user/Trivaxy), [Terraformers](https://modrinth.com/organization/terraformers), [SmajloSlovakian](https://modrinth.com/user/SmajloSlovakian), [YaLTeR](https://modrinth.com/user/YaLTeR), [creativemd](https://modrinth.com/user/creativemd), [PepperCode1](https://modrinth.com/user/PepperCode1), [ThinkingStudio](https://modrinth.com/organization/thinkingstudio), [Sollace](https://modrinth.com/user/Sollace), [Kaiji-Kun](https://modrinth.com/user/Kaiji-Kun), [Kingybu](https://modrinth.com/user/Kingybu), [Vixel](https://modrinth.com/user/Vixel), [Fabulously Optimized](https://modrinth.com/organization/fabulously-optimized), [nebulr](https://modrinth.com/user/nebulr), [aric3435](https://modrinth.com/user/aric3435), [FreshLX](https://modrinth.com/user/FreshLX), [EminGT](https://modrinth.com/user/EminGT), [shsupercm](https://modrinth.com/user/shsupercm), [Traben](https://modrinth.com/user/Traben), [modmuss50](https://modrinth.com/user/modmuss50), [jellysquid3](https://modrinth.com/user/jellysquid3), [coderbot](https://modrinth.com/user/coderbot), [embeddedt](https://modrinth.com/user/embeddedt), [Wesley1808](https://modrinth.com/user/Wesley1808), [Patbox](https://modrinth.com/user/Patbox), [shedaniel](https://modrinth.com/user/shedaniel), [comp500](https://modrinth.com/user/comp500), [TerminalMC](https://modrinth.com/organization/terminalmc)
 
 ### Gallery
 
